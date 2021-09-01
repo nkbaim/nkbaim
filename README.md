@@ -1,6 +1,4 @@
-![Yang's github stats](https://github-readme-stats.vercel.app/api?username=nkbaim&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkbaim&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
+![Yang's github stats](https://github-readme-stats.vercel.app/api?username=nkbaim&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkbaim&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
 ### Hi there 👋
 My name is Yang Du, I'm now working in the Center for Cancer Bioinformatics at Peking University Cancer Hospital.
 and my current research focus on multi-omics researches of Gastric Cancer.
